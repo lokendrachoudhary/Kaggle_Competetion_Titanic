@@ -1,1 +1,2 @@
-# Kaggle_Competetion_Titanic
+# Kaggle_Competetions
+# 1. Titanic
